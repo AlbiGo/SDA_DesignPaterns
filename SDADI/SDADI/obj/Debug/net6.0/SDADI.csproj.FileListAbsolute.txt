@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SDADI\SDADI\bin\Debug\net6.0\SDADI.exe
+C:\Users\User\source\repos\SDADI\SDADI\bin\Debug\net6.0\SDADI.deps.json
+C:\Users\User\source\repos\SDADI\SDADI\bin\Debug\net6.0\SDADI.runtimeconfig.json
+C:\Users\User\source\repos\SDADI\SDADI\bin\Debug\net6.0\SDADI.dll
+C:\Users\User\source\repos\SDADI\SDADI\bin\Debug\net6.0\SDADI.pdb
+C:\Users\User\source\repos\SDADI\SDADI\obj\Debug\net6.0\SDADI.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SDADI\SDADI\obj\Debug\net6.0\SDADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SDADI\SDADI\obj\Debug\net6.0\SDADI.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SDADI\SDADI\obj\Debug\net6.0\SDADI.AssemblyInfo.cs
+C:\Users\User\source\repos\SDADI\SDADI\obj\Debug\net6.0\SDADI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SDADI\SDADI\obj\Debug\net6.0\SDADI.dll
+C:\Users\User\source\repos\SDADI\SDADI\obj\Debug\net6.0\refint\SDADI.dll
+C:\Users\User\source\repos\SDADI\SDADI\obj\Debug\net6.0\SDADI.pdb
+C:\Users\User\source\repos\SDADI\SDADI\obj\Debug\net6.0\SDADI.genruntimeconfig.cache
+C:\Users\User\source\repos\SDADI\SDADI\obj\Debug\net6.0\ref\SDADI.dll

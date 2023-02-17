@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sda_DI_Example.props" />
+</Project>

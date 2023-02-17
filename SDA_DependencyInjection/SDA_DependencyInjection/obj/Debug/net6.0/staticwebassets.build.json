@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ocpi9kNVs48khEW7+Qh+pWO+A01mg7iXfXPcY3xTVnM=",
+  "Source": "SDA_DependencyInjection",
+  "BasePath": "_content/SDA_DependencyInjection",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
